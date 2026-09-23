@@ -1,0 +1,11 @@
+name: project-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - scikit-learn
+  - pandas
+  - matplotlib
+  - python>=3.10
+  - jupyterlab
+
